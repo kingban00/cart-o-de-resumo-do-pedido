@@ -11,7 +11,7 @@ Essa é uma solução para desafio <a href = "https://www.frontendmentor.io/chal
 <h2>Links</h2>
 <ul>
   <li> Solução - https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-and-media-query-SJDZJA67c
-  <li> Site -    https://kingban00.github.io/cart-o-de-resumo-do-pedido/
+  <li> Site    - https://kingban00.github.io/cart-o-de-resumo-do-pedido/
 </ul>
 <h2>Autor</h2>
 <ul>
