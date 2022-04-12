@@ -10,14 +10,15 @@ Essa é uma solução para desafio <a href = "https://www.frontendmentor.io/chal
 </ul>
 <h2>Links</h2>
 <ul>
-  <li> Solução - 
-  <li> Site - 
+  <li> Solução - https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-and-media-query-SJDZJA67c
+  <li> Site -    https://kingban00.github.io/cart-o-de-resumo-do-pedido/
 </ul>
 <h2>Autor</h2>
 <ul>
-  <li>Instagram - <a href="https://www.instagram.com/yanngabriel1/" target= "_blank" rel="external">@yanngabriel1</a>
-  <li>Frontend Mentor - <a href="https://www.frontendmentor.io/profile/kingban00" target= "_blank" rel= "external">@kingban00</a>
-  <li>Twitter - <a href="https://twitter.com/kingban00" target= "_blank" rel= "external">@kingban00</a>
+  <li>Instagram - <a href="https://www.instagram.com/yanngabriel1/" target= "_blank" rel="author">@yanngabriel1</a>
+  <li>Frontend Mentor - <a href="https://www.frontendmentor.io/profile/kingban00" target= "_blank" rel= "author">@kingban00</a>
+  <li>Twitter - <a href="https://twitter.com/kingban00" target= "_blank" rel= "author">@kingban00</a>
+  <li>Portfólio - <a href="#" target= "_blank" rel= "author">Portfólio Kingban00</a>
 </ul>
 
 </p>
